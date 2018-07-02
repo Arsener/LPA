@@ -1,0 +1,3 @@
+# LPA
+
+Label Propagation Algorithm
